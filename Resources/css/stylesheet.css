@@ -1,0 +1,13 @@
+#container {
+  margin: auto;
+  display: grid;
+  justify-content: center;
+  border-bottom: 1px solid black;
+  border-right: 1px solid black;
+}
+
+#reset-button {
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+}
